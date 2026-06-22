@@ -4,3 +4,4 @@ langchain-openai
 pypdf
 tavily-python
 pydantic
+langchain-community
