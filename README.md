@@ -6,7 +6,7 @@ The project is structured to ensure clean code readability, modularity, and stra
 
 ## Live Deployment
 The application is fully deployed and accessible here:
-[INSERT YOUR STREAMLIT LIVE LINK HERE]
+https://factcheckerapp-jgeu236yjlzfcweuxvodbv.streamlit.app/
 
 ## How It Works
 1. **Text Extraction:** The application reads raw text from uploaded PDF files using PyPDF.
